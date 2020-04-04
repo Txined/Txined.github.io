@@ -1,5 +1,5 @@
-# LyndaWebSite
-Lynda Web is built to support Lynda Downloader and all videos to be displayed properly in a private library 
+# Txined
+Txined is built to support Downloader and all videos to be displayed properly in a private library 
 
 This small web was especially created to support my <a href="https://github.com/r00tmebaby/Lynda_Downloader">Lynda Downloader python script</a> and all downloaded videos to be properly displayed on it.
 
